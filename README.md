@@ -1,14 +1,9 @@
 # my-first-one
-thank you very much
-第一个文件
- 
-的叫法是大家佛
-的房间爱三等奖dfasdfasd
-dfasdfadfdfasdfas
+git-github-markdown
+
+大脑可塑性
+
+保持最小行动，写卡片，大时间周期
 
 
 
-
-dfadsfadsfa
-
-fasdfa
