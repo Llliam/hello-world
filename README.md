@@ -1,9 +1,7 @@
 # my-first-one
-git-github-markdown
+理想的写作环境：git-github-markdown-jekyll
 
-大脑可塑性
-
-保持最小行动，写卡片，大时间周期
+保持最小行动，每天写卡片，大时间周期
 
 
 
