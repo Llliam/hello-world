@@ -1,8 +1,9 @@
 学习一定要找到源头知识，使用工具一定要先看官方文档
 
-## 工具
+## Mac基础工具
 
-- MacOS系统：1brew安装，2appstore安装，3官网下载，4破解 [Mac效率手册-阳志平](http://www.yangzhiping.com/tech/mac.html) [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+mac系统软件安装原则：1brew安装，2appstore安装，3官网下载，4破解
+- MacOS系统： [Mac效率手册-阳志平](http://www.yangzhiping.com/tech/mac.html) [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 - Google搜索： [TipsGoogleSearch](http://openmindclub.qiniudn.com/share/TipsGoogleSearch.jpg) [如何用好谷歌等搜索引擎？](https://www.zhihu.com/question/20161362)
 - Markdown写作： Atom(预览快捷键Ctrl+Shift+M) textmate sublime [Markdown](https://daringfireball.net/projects/markdown/) [Markdown新手指南](http://www.jianshu.com/p/q81RER) [Markdown语法说明(简体中文版)](http://wowubuntu.com/markdown/index.html) [Markdown写作浅谈](https://mp.weixin.qq.com/s/HsPZLl60vjbEKEbT2HHH7A)
 - 命令行：iterm2 Terminal  [快乐的Linux命令行](https://billie66.github.io/TLCL/)
